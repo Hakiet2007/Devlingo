@@ -1,0 +1,6 @@
+{
+  "name": "DevLingo - Học Lập Trình Kiểu Duolingo",
+  "description": "Nền tảng học lập trình tương tác chuẩn phong cách Duolingo: lộ trình học bài bản, bài tập code vui nhộn, streak chuỗi ngày, tim và bảng xếp hạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
